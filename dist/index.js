@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.ChartJSNodeCanvas = void 0;
-const freshRequire_1 = require("./freshRequire");
 const backgroundColourPlugin_1 = require("./backgroundColourPlugin");
+const freshRequire_1 = require("./freshRequire");
 class ChartJSNodeCanvas {
     /**
      * Create a new instance of CanvasRenderService.
